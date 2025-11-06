@@ -1,0 +1,5 @@
+{
+    "PARENT_URL": "https://www.chrono24.fr/search/index.htm?customerId=25774&dosearch=true",
+    "CHECK_INTERVAL": 86400000,
+    "BACK_END_URL": "http://localhost:3001/api/v0/watch-bot"
+}
